@@ -1,0 +1,5 @@
+{
+    "name": "prettier-config-ebbly",
+    "version": "0.1.0",
+    "main": ".prettierrc.json"
+}
